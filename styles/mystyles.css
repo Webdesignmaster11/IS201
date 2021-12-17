@@ -1,0 +1,42 @@
+p{
+    font-family:sans-serif;
+    font-size:18px;
+    text-align: left;
+}
+.phome{
+    font-family: monospace;
+    font-size:24px;
+}
+.familypic{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+}
+.link{
+    text-decoration-color: blue;}
+.center{
+    text-align:match-parent;}
+.underline{
+    text-decoration: underline;
+    color:Blue;}
+body{
+    background-color: lightgray;}
+.homebackcolor{
+    background-color: lemonchiffon;}
+.cursive{
+    font-family: cursive;}
+.text{
+    text-align: center;}
+.montana{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.myspot{
+    padding-left: 375px;
+}
+.bold
+{
+    font-weight:bold;
+}

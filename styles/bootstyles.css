@@ -1,0 +1,44 @@
+
+.header{
+    top:0px;
+    right:0px;
+    left:0px;
+    height:100px;
+    background-color:lightblue;
+    position:active;}
+.floating{
+    float:right;}
+h1{
+    text-align:center;
+    font-family: cursive;
+}
+.footer{
+    margin-top:25px;
+    background-color:lightblue;
+    padding-top: 45px}
+.mainbody{
+    top:137px;
+    left:0px;
+    right:0px;
+    bottom:5px;}
+.flexwrapper{
+   display:flex;
+    min-height:100vh;
+    flex-direction:column;
+    justify-content: flex-start;
+}
+h5{
+    text-align:center;
+    font-size: 24px;
+    text-decoration: underline;
+    background color:lightblue}
+.caption{
+    padding-left:575px;
+    font-size: 14px;
+    color: crimson}
+.left{
+    float:left;}
+.backtotop{
+    float:right;
+    font-size:30px;
+}
